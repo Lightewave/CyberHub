@@ -1,0 +1,16 @@
+#!/bin/bash
+
+echo "What is your Name"
+read name
+
+echo "What is your registration number"
+read registration number
+
+echo "What is your Department"
+read Department
+
+echo "What is your course of study"
+read Course of study
+
+echo "What is your current CGPA"
+read CGPA
